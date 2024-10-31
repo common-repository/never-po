@@ -1,0 +1,279 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NeverPO\n"
+"POT-Creation-Date: 2016-08-30 20:26+0300\n"
+"PO-Revision-Date: 2016-08-31 14:59+0300\n"
+"Last-Translator: David <4341922@gmail.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../functions.php:236 ../functions.php:255 ../functions.php:300
+#: ../options.php:31 ../options.php:51
+msgid "Translation"
+msgstr ""
+
+#: ../functions.php:318
+msgid "Translate mode"
+msgstr ""
+
+#: ../functions.php:336
+msgid "Go To -> Dictionary edit page"
+msgstr ""
+
+#: ../never-po.php:61
+msgid "Translation managment console"
+msgstr ""
+
+#: ../never-po.php:63
+msgid "Point mouse over "
+msgstr ""
+
+#: ../never-po.php:64
+msgid ":text"
+msgstr ""
+
+#: ../never-po.php:67
+msgid "Use Hot Key "
+msgstr ""
+
+#: ../never-po.php:68
+msgid "Shift+B"
+msgstr ""
+
+#: ../never-po.php:75
+msgid ""
+"Point mouse over text with \":\" markup at the beginning, then press \"Shift "
+"+ B\"."
+msgstr ""
+
+#: ../never-po.php:77
+msgid "Enter translation - HTML Allowed!"
+msgstr ""
+
+#: ../never-po.php:86 ../options.php:79
+msgid "All pages"
+msgstr ""
+
+#: ../never-po.php:98 ../options.php:74
+msgid "All Blogs"
+msgstr ""
+
+#: ../never-po.php:112
+msgid "Clear"
+msgstr ""
+
+#: ../never-po.php:113
+msgid "Save"
+msgstr ""
+
+#: ../never-po.php:126
+msgid ""
+"Text available for translation marked up with \":\" at the beggining. You "
+"can translate only hole string. To do it - point mouse over such string and "
+"press \"Shift + B\"."
+msgstr ""
+
+#: ../never-po.php:127
+msgid ""
+"Turn On this switcher and this translation will be applied for all blogs in "
+"WP multisite mode."
+msgstr ""
+
+#: ../never-po.php:128
+msgid ""
+"Turn On this switcher and this translation will be applied for all pages of "
+"the current blog."
+msgstr ""
+
+#: ../never-po.php:129
+msgid ""
+"This is Your current local. All saved translations will be applied ONLY in "
+"this local."
+msgstr ""
+
+#: ../options.php:4
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../options.php:16
+msgid "Your NeverPo dictionary content"
+msgstr ""
+
+#: ../options.php:24 ../options.php:44
+msgid "ID"
+msgstr ""
+
+#: ../options.php:25 ../options.php:45
+msgid "Screen"
+msgstr ""
+
+#: ../options.php:26 ../options.php:46
+msgid "Blog"
+msgstr ""
+
+#: ../options.php:30 ../options.php:50
+msgid "Original Text"
+msgstr ""
+
+#: ../options.php:32
+msgid "Local"
+msgstr ""
+
+#: ../options.php:33 ../options.php:52
+msgid "Unknown column"
+msgstr ""
+
+#: ../options.php:89
+msgid "Translated in MS mode"
+msgstr ""
+
+#: ../options.php:111
+msgid "Your dictionary is empty"
+msgstr ""
+
+#: ../options.php:112
+#, php-format
+msgid "Selected %d row(s)"
+msgstr ""
+
+#: ../options.php:113
+msgid "Click on row to select It"
+msgstr ""
+
+#: ../options.php:114
+msgid "Selected 1 row"
+msgstr ""
+
+#: ../options.php:115
+msgid "Previous"
+msgstr ""
+
+#: ../options.php:116
+msgid "Next"
+msgstr ""
+
+#: ../options.php:117
+msgid "Search"
+msgstr ""
+
+#: ../options.php:118
+msgid "Info"
+msgstr "Showing _START_ to _END_ of _TOTAL_ entries"
+
+#: ../options.php:119
+msgid "infoEmpty"
+msgstr "No entries to show"
+
+#: ../options.php:120
+msgid "lengthMenu"
+msgstr "Display _MENU_ records"
+
+#: ../options.php:121
+msgid "All"
+msgstr ""
+
+#: ../options.php:126
+msgid "Columns"
+msgstr ""
+
+#: ../options.php:127
+msgid ""
+"Columns visibility. NOTE: all export operations process only currently "
+"visible columns."
+msgstr ""
+
+#: ../options.php:131
+msgid "Copy"
+msgstr ""
+
+#: ../options.php:132
+msgid "Copy hole table content into clipboard"
+msgstr ""
+
+#: ../options.php:133
+msgid "Copy to clipboard"
+msgstr ""
+
+#: ../options.php:134
+msgid ""
+"Press <i>ctrl</i> or <i>\\u2318</i> + <i>C</i> to copy the table data<br>to "
+"your system clipboard.<br><br>To cancel, click this message or press escape"
+msgstr ""
+
+#: ../options.php:135
+msgid "Copied one row to clipboard"
+msgstr ""
+
+#: ../options.php:136
+#, php-format
+msgid "Copied %d rows to clipboard"
+msgstr ""
+
+#: ../options.php:140
+msgid "Export CSV"
+msgstr ""
+
+#: ../options.php:141
+msgid ""
+"Export as CSV file. You may select nessesary rows to import only it. NOTE: "
+"Export uses UTF-8 encoding, so if you are gonna open it via Excel - use "
+"IMPORT, not regular \"Open file\" menu option"
+msgstr ""
+
+#: ../options.php:145
+msgid "JSON Pair"
+msgstr ""
+
+#: ../options.php:146
+msgid "Export as JSON with pair \"Original text\" -> \"Translated text\""
+msgstr ""
+
+#: ../options.php:157
+msgid "Dictionary settings page"
+msgstr ""
+
+#~ msgid "Enter translation"
+#~ msgstr "Введите Ваш перевод"
+
+#~ msgid "Network top level page"
+#~ msgstr "Настройки модуля перевода (мультисайт)"
+
+#~ msgid "Blog top level page"
+#~ msgstr "Настройки модуля перевода (синглсайт)"
+
+#~ msgid "Hello World"
+#~ msgstr ""
+#~ "Текст, доступный для перевода, размечен знаком двоеточия (:) в начале "
+#~ "строки. Перевести можно только строку целиком. Для этого наведите "
+#~ "указатель мыши на такую строку и нажмите клавиши Shift и B одновременно. "
+#~ "Исходный текст будет помещен в соответствующее поле консоли и Вы сможете "
+#~ "ввести желаемый перевод. После этого нажмите клавишу Сохранить в консоли "
+#~ "управления переводом. Ваше перевод будет сохранен в базе данных на "
+#~ "сервере и одновременно будет выполнен перевод исходного текста на текущей "
+#~ "странице."
+
+#~ msgid "Edit"
+#~ msgstr "Ре"
+
+#~ msgid "Next menu point"
+#~ msgstr "Еще пункт меню"
+
+#~ msgid "Use Hot Key - \"Shift+B\""
+#~ msgstr "Нажмите - \"Shift+B\""
+
+#~ msgid "Use Hot Key"
+#~ msgstr "Используйте горячие клавиши"
+
+#~ msgid "Translations"
+#~ msgstr "Перевод"

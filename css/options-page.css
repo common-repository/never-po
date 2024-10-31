@@ -1,0 +1,40 @@
+.clear{
+	clear: both;
+	margin-bottom: 10px;
+}
+#neverpo-dic-table {
+	opacity: 0;
+	transition: opacity 1s;
+}
+#neverpo-dic-table_wrapper {
+    background: white;
+    padding: 20px;
+    border: 1px solid #d9d9d9;
+	overflow-x: auto;
+}
+#neverpo-dic-table tr {text-align: left;}
+#neverpo-dic-table thead th, 
+#neverpo-dic-table tfoot th {padding: 10px 10px;}
+
+#neverpo-dic-table caption {
+    font-size: 20px;
+    padding: 15px 0px 15px 0px;
+    text-align: left;
+    text-transform: uppercase;
+    color: #7d858d;
+}
+#neverpo-dic-table tfoot select {width: 100%;}
+
+.tip{
+    border: 1px solid #868686;
+    border-radius: 50%;
+    padding: 0px 6px 2px 6px;
+    margin-left: 5px;
+    background-color: #ffffff;
+    color: #855f00;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 10px;
+    box-shadow: inset 0 0 1px 0px #b4aeae;
+    box-sizing: border-box;
+}
